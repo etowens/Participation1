@@ -10,7 +10,7 @@ namespace Participation1
     {
         public int CourseID { get; set; }
         public int CourseNumber { get; set; }
-
+         
         public string CourseName  {get; set; }
         public string Subject { get; set; }
 
