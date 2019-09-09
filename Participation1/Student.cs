@@ -15,7 +15,7 @@ namespace Participation1
 
         public List<Course> Courses = new List<Course>();
         
-    Student()
+    Student() 
         {
             FirstName = "";
             LastName = "";
